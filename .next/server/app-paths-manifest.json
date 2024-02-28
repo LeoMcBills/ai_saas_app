@@ -1,9 +1,4 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/(root)/transformations/[id]/page": "app/(root)/transformations/[id]/page.js",
-  "/(root)/credits/page": "app/(root)/credits/page.js",
-  "/(root)/transformations/[id]/update/page": "app/(root)/transformations/[id]/update/page.js",
-  "/(root)/transformations/add/[type]/page": "app/(root)/transformations/add/[type]/page.js",
-  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
-  "/(auth)/sign-up/[[...sign-up]]/page": "app/(auth)/sign-up/[[...sign-up]]/page.js"
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/transformations/[id]/update/page": "app/(root)/transformations/[id]/update/page.js"
 }
